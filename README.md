@@ -55,10 +55,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zakharfsk&show_icons=true&locale=en&theme=tokyonight" alt="zakharfsk" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakharfsk&&theme=tokyonight" alt="zakharfsk" />
 </p>
-
-
-
-
-
-
-
