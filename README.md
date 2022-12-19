@@ -3,9 +3,7 @@
 <h3 align="center">A Junior Python Developer from Ukraine <img src="https://cdn-icons-png.flaticon.com/512/303/303218.png" width="20" height="20" alt="Ukraine icon"></h3>
 <img align="right" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding gif">
 
-- 🌱 I’m currently learning **React,ES6,Redux,TS**
-
-- 💬 Ask me about **react,ts,front-end**
+- 🌱 I’m currently learning **Django, Django REST, FastAPI**
 
 - 📫 How to reach me **fesikzaharjob@gmail.com**
 
